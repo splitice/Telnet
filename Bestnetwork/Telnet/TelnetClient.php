@@ -239,7 +239,7 @@ define ( 'LFLOW_RESTART_XON', chr ( 3 ) ); /* Restart output only on XON */
  * @link https://github.com/jnorell/Net_Telnet
  *      
  */
-class Net_Telnet {
+class TelnetClient {
 	/**
 	 * Remote host to connect to
 	 */
