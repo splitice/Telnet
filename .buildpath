@@ -2,4 +2,8 @@
 <buildpath>
 	<buildpathentry kind="src" path="vendor/composer"/>
 	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry kind="src" path="vendor/splitice/radical-common/src"/>
+	<buildpathentry kind="src" path="vendor/splitice/radical-system/src"/>
+	<buildpathentry kind="src" path="vendor/splitice/radical-basic/src"/>
+	<buildpathentry kind="src" path="vendor/symfony/filesystem"/>
 </buildpath>
